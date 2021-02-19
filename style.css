@@ -89,3 +89,9 @@ img:hover{
 	width:110px;
 	height:90px;
 }
+
+p img{
+	align:center;
+	margin-bottom:20px;
+}
+
