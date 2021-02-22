@@ -187,8 +187,12 @@ h2{
        color:white;
        margin-top:50%;
        margin-left:35%;
+       cursor:pointer;
    }
 
+    .contact .contact_us{
+        cursor:pointer;
+}
    .contact i{
        position:relative;
        margin-left:2%;
